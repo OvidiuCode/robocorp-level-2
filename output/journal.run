@@ -1,0 +1,414 @@
+{"when":1705663208,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705663208,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.032s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705663208,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.004s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 88608/88609)"}
+{"when":1705663208,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.007s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705663208,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.217s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705663208,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.577s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705663208,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705663208,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705663209,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[88623:python3.10]"}
+{"when":1705663214,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 3 ... map[88623:python3.10 88657:bash 88661:node]"}
+{"when":1705663215,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 3 to 4 ... map[88623:python3.10 88657:bash 88661:node 88663:Chromium]"}
+{"when":1705663215,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 4 to 9 ... map[88623:python3.10 88657:bash 88661:node 88663:Chromium 88672:Chromium Helper 88673:Chromium Helper 88674:Chromium Helper 88676:Chromium Helper 88677:Chromium Helper ]"}
+{"when":1705663216,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 9 to 1 ... map[88623:python3.10]"}
+{"when":1705663216,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705663216,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705663217,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705663300,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705663300,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.029s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705663300,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 89003/89004)"}
+{"when":1705663300,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705663301,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.190s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705663301,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.450s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705663301,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705663301,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705663302,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[89022:python3.10]"}
+{"when":1705663307,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 4 ... map[89022:python3.10 89055:bash 89059:node 89060:Chromium]"}
+{"when":1705663307,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 4 to 9 ... map[89022:python3.10 89055:bash 89059:node 89060:Chromium 89069:Chromium Helper 89070:Chromium Helper 89071:Chromium Helper 89073:Chromium Helper 89074:Chromium Helper ]"}
+{"when":1705663308,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705663308,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705663309,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705663797,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705663797,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.027s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705663797,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.004s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 89705/89706)"}
+{"when":1705663797,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705663797,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.195s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705663797,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.469s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705663797,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705663797,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705663798,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[89726:python3.10]"}
+{"when":1705663803,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 8 ... map[89726:python3.10 89751:bash 89755:node 89756:Chromium 89765:Chromium Helper 89766:Chromium Helper 89767:Chromium Helper 89768:Chromium Helper ]"}
+{"when":1705663803,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 8 to 9 ... map[89726:python3.10 89751:bash 89755:node 89756:Chromium 89765:Chromium Helper 89766:Chromium Helper 89767:Chromium Helper 89777:Chromium Helper 89778:Chromium Helper ]"}
+{"when":1705663805,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 9 to 1 ... map[89726:python3.10]"}
+{"when":1705663805,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705663805,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705663806,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705663979,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705663979,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.029s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705663979,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.004s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 90431/90432)"}
+{"when":1705663979,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.004s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705663980,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.197s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705663980,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.456s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705663980,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705663980,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705663981,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[90449:python3.10]"}
+{"when":1705663986,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 8 ... map[90449:python3.10 90483:bash 90487:node 90488:Chromium 90497:Chromium Helper 90498:Chromium Helper 90499:Chromium Helper 90500:Chromium Helper ]"}
+{"when":1705663986,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 8 to 9 ... map[90449:python3.10 90483:bash 90487:node 90488:Chromium 90497:Chromium Helper 90498:Chromium Helper 90499:Chromium Helper 90501:Chromium Helper 90502:Chromium Helper ]"}
+{"when":1705663987,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 9 to 1 ... map[90449:python3.10]"}
+{"when":1705663988,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705663988,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705663989,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705664003,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705664003,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.027s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705664003,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 90588/90589)"}
+{"when":1705664003,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.004s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705664003,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.194s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705664004,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.462s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705664004,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705664004,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705664004,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[90595:python3.10]"}
+{"when":1705664009,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 4 ... map[90595:python3.10 90624:bash 90628:node 90629:Chromium]"}
+{"when":1705664010,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 4 to 9 ... map[90595:python3.10 90624:bash 90628:node 90629:Chromium 90638:Chromium Helper 90639:Chromium Helper 90640:Chromium Helper 90642:Chromium Helper 90643:Chromium Helper ]"}
+{"when":1705664017,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 9 to 1 ... map[90595:python3.10]"}
+{"when":1705664017,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705664017,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705664018,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705666798,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705666798,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.031s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705666798,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.004s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 97320/97321)"}
+{"when":1705666798,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705666798,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.192s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705666798,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.481s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705666798,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705666798,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705666799,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[97327:python3.10]"}
+{"when":1705666804,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 5 ... map[97327:python3.10 97356:bash 97360:node 97361:Chromium 97370:Chromium Helper ]"}
+{"when":1705666804,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 5 to 9 ... map[97327:python3.10 97356:bash 97360:node 97361:Chromium 97370:Chromium Helper 97371:Chromium Helper 97372:Chromium Helper 97374:Chromium Helper 97375:Chromium Helper ]"}
+{"when":1705666819,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705666819,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705666820,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705667436,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705667436,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.032s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705667436,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 99253/99254)"}
+{"when":1705667436,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705667436,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.189s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705667437,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.457s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705667437,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705667437,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705667437,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[99273:python3.10]"}
+{"when":1705667442,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 3 ... map[99273:python3.10 99304:bash 99308:node]"}
+{"when":1705667443,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 3 to 5 ... map[99273:python3.10 99304:bash 99308:node 99310:Chromium 99319:Chromium Helper ]"}
+{"when":1705667444,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 5 to 9 ... map[99273:python3.10 99304:bash 99308:node 99310:Chromium 99319:Chromium Helper 99320:Chromium Helper 99321:Chromium Helper 99323:Chromium Helper 99324:Chromium Helper ]"}
+{"when":1705667459,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 9 to 1 ... map[99273:python3.10]"}
+{"when":1705667459,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705667459,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705667460,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705913610,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705913610,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.030s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705913610,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 38508/38509)"}
+{"when":1705913610,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705913610,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.217s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705913611,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.511s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705913611,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705913611,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705913611,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[38526:python3.10]"}
+{"when":1705913618,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 3 ... map[38526:python3.10 38559:bash 38563:node]"}
+{"when":1705913618,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 3 to 10 ... map[38526:python3.10 38559:bash 38563:node 38564:Chromium 38573:Chromium Helper 38574:Chromium Helper 38575:Chromium Helper 38576:Chromium Helper 38577:Chromium Helper 38578:Chromium Helper ]"}
+{"when":1705913619,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 10 to 9 ... map[38526:python3.10 38559:bash 38563:node 38564:Chromium 38573:Chromium Helper 38574:Chromium Helper 38575:Chromium Helper 38577:Chromium Helper 38578:Chromium Helper ]"}
+{"when":1705913664,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705913664,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705913665,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705913769,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705913769,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.030s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705913769,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 39124/39125)"}
+{"when":1705913769,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.004s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705913770,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.202s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705913770,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.464s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705913770,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705913770,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705913771,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[39138:python3.10]"}
+{"when":1705913776,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 3 ... map[39138:python3.10 39176:bash 39180:node]"}
+{"when":1705913776,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 3 to 10 ... map[39138:python3.10 39176:bash 39180:node 39182:Chromium 39190:Chromium Helper 39191:Chromium Helper 39192:Chromium Helper 39193:Chromium Helper 39195:Chromium Helper 39196:Chromium Helper ]"}
+{"when":1705913777,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 10 to 9 ... map[39138:python3.10 39176:bash 39180:node 39182:Chromium 39190:Chromium Helper 39191:Chromium Helper 39192:Chromium Helper 39195:Chromium Helper 39196:Chromium Helper ]"}
+{"when":1705913792,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 9 to 8 ... map[39138:python3.10 39176:bash 39180:node 39182:Chromium 39190:Chromium Helper 39191:Chromium Helper 39192:Chromium Helper 39195:Chromium Helper ]"}
+{"when":1705913792,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705913792,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705913793,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705914191,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705914191,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.027s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705914191,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 40534/40535)"}
+{"when":1705914191,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705914191,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.202s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705914192,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.481s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705914192,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705914192,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705914193,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[40549:python3.10]"}
+{"when":1705914198,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 4 ... map[40549:python3.10 40579:bash 40584:node 40585:Chromium]"}
+{"when":1705914199,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 4 to 9 ... map[40549:python3.10 40579:bash 40584:node 40585:Chromium 40594:Chromium Helper 40595:Chromium Helper 40596:Chromium Helper 40605:Chromium Helper 40606:Chromium Helper ]"}
+{"when":1705914232,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 9 to 7 ... map[40549:python3.10 40579:bash 40584:node 40585:Chromium 40594:Chromium Helper 40595:Chromium Helper 40596:Chromium Helper]"}
+{"when":1705914232,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705914232,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705914234,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705914239,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705914239,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.030s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705914239,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 40813/40814)"}
+{"when":1705914239,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705914239,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.197s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705914240,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.456s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705914240,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705914240,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705914240,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[40821:python3.10]"}
+{"when":1705914245,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 5 ... map[40821:python3.10 40855:bash 40859:node 40860:Chromium 40866:profiles]"}
+{"when":1705914246,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 5 to 9 ... map[40821:python3.10 40855:bash 40859:node 40860:Chromium 40869:Chromium Helper 40870:Chromium Helper 40871:Chromium Helper 40873:Chromium Helper 40874:Chromium Helper ]"}
+{"when":1705914262,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 9 to 1 ... map[40821:python3.10]"}
+{"when":1705914262,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705914262,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705914263,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705914348,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705914349,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.029s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705914349,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.004s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 41256/41257)"}
+{"when":1705914349,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705914349,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.194s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705914349,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.460s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705914349,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705914349,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705914350,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[41272:python3.10]"}
+{"when":1705914355,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 5 ... map[41272:python3.10 41300:bash 41304:node 41305:Chromium 41311:profiles]"}
+{"when":1705914355,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 5 to 9 ... map[41272:python3.10 41300:bash 41304:node 41305:Chromium 41314:Chromium Helper 41315:Chromium Helper 41316:Chromium Helper 41319:Chromium Helper 41320:Chromium Helper ]"}
+{"when":1705914371,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705914371,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705914372,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705914520,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705914520,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.028s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705914520,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 41881/41882)"}
+{"when":1705914520,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705914520,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.209s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705914521,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.476s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705914521,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705914521,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705914521,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[41898:python3.10]"}
+{"when":1705914526,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 3 ... map[41898:python3.10 41931:bash 41935:node]"}
+{"when":1705914527,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 3 to 10 ... map[41898:python3.10 41931:bash 41935:node 41938:Chromium 41946:Chromium Helper 41947:Chromium Helper 41948:Chromium Helper 41949:Chromium Helper 41951:Chromium Helper 41952:Chromium Helper ]"}
+{"when":1705914527,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 10 to 9 ... map[41898:python3.10 41931:bash 41935:node 41938:Chromium 41946:Chromium Helper 41947:Chromium Helper 41948:Chromium Helper 41951:Chromium Helper 41952:Chromium Helper ]"}
+{"when":1705914530,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705914530,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705914531,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705915085,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705915085,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.030s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705915085,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 43829/43830)"}
+{"when":1705915085,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705915085,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.198s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705915085,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.463s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705915086,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705915086,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705915086,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[43847:python3.10]"}
+{"when":1705915091,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 3 ... map[43847:python3.10 43881:bash 43885:node]"}
+{"when":1705915092,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 3 to 8 ... map[43847:python3.10 43881:bash 43885:node 43887:Chromium 43896:Chromium Helper 43897:Chromium Helper 43898:Chromium Helper 43899:Chromium Helper ]"}
+{"when":1705915092,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 8 to 9 ... map[43847:python3.10 43881:bash 43885:node 43887:Chromium 43896:Chromium Helper 43897:Chromium Helper 43898:Chromium Helper 43900:Chromium Helper 43901:Chromium Helper ]"}
+{"when":1705915096,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705915096,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705915097,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705915119,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705915119,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.030s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705915119,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 44028/44029)"}
+{"when":1705915119,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705915119,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.205s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705915120,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.471s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705915120,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705915120,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705915120,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[44043:rcc]"}
+{"when":1705915121,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 1 ... map[44043:python3.10]"}
+{"when":1705915126,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 4 ... map[44043:python3.10 44066:bash 44070:node 44071:Chromium]"}
+{"when":1705915127,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 4 to 9 ... map[44043:python3.10 44066:bash 44070:node 44071:Chromium 44087:Chromium Helper 44088:Chromium Helper 44089:Chromium Helper 44091:Chromium Helper 44092:Chromium Helper ]"}
+{"when":1705915129,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 9 to 1 ... map[44043:python3.10]"}
+{"when":1705915129,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705915129,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705915131,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705915230,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705915230,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.030s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705915230,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 44444/44446)"}
+{"when":1705915230,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.006s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705915230,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.199s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705915231,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.460s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705915231,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705915231,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705915232,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[44462:python3.10]"}
+{"when":1705915241,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705915241,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.029s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705915241,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 44553/44554)"}
+{"when":1705915241,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705915242,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.199s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705915242,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.460s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705915242,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705915242,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705915243,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[44561:python3.10]"}
+{"when":1705915248,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 4 ... map[44561:python3.10 44591:bash 44595:node 44597:Chromium]"}
+{"when":1705915248,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 4 to 9 ... map[44561:python3.10 44591:bash 44595:node 44597:Chromium 44605:Chromium Helper 44606:Chromium Helper 44607:Chromium Helper 44609:Chromium Helper 44610:Chromium Helper ]"}
+{"when":1705915254,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 9 to 1 ... map[44561:python3.10]"}
+{"when":1705915254,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705915254,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705915255,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705915257,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705915257,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.029s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705915257,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 44678/44679)"}
+{"when":1705915257,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705915257,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.198s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705915258,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.462s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705915258,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705915258,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705915258,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[44686:python3.10]"}
+{"when":1705915263,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 4 ... map[44686:python3.10 44715:bash 44719:node 44720:Chromium]"}
+{"when":1705915264,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 4 to 9 ... map[44686:python3.10 44715:bash 44719:node 44720:Chromium 44728:Chromium Helper 44729:Chromium Helper 44730:Chromium Helper 44732:Chromium Helper 44733:Chromium Helper ]"}
+{"when":1705915267,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705915267,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705915268,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705917125,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705917125,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.032s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705917125,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.004s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 49480/49481)"}
+{"when":1705917125,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.006s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705917125,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.189s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705917125,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.463s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705917125,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705917125,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705917126,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[49497:python3.10]"}
+{"when":1705917131,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 8 ... map[49497:python3.10 49532:bash 49536:node 49537:Chromium 49544:Chromium Helper 49545:Chromium Helper 49546:Chromium Helper 49547:Chromium Helper ]"}
+{"when":1705917131,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 8 to 9 ... map[49497:python3.10 49532:bash 49536:node 49537:Chromium 49544:Chromium Helper 49545:Chromium Helper 49546:Chromium Helper 49548:Chromium Helper 49549:Chromium Helper ]"}
+{"when":1705917134,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 9 to 1 ... map[49497:python3.10]"}
+{"when":1705917134,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705917134,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705917135,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705917397,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705917397,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.027s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705917397,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.004s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 50504/50505)"}
+{"when":1705917397,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705917397,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.204s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705917397,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.459s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705917397,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705917397,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705917398,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[50528:python3.10]"}
+{"when":1705917403,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 4 ... map[50528:python3.10 50554:bash 50558:node 50563:Chromium]"}
+{"when":1705917404,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 4 to 9 ... map[50528:python3.10 50554:bash 50558:node 50563:Chromium 50575:Chromium Helper 50576:Chromium Helper 50577:Chromium Helper 50579:Chromium Helper 50580:Chromium Helper ]"}
+{"when":1705917436,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 9 to 3 ... map[50528:python3.10 50554:bash 50558:node]"}
+{"when":1705917437,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705917437,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705917438,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705917559,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705917559,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.030s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705917559,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 51168/51169)"}
+{"when":1705917559,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705917560,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.216s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705917560,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.459s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705917560,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705917560,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705917561,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[51187:python3.10]"}
+{"when":1705917566,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 8 ... map[51187:python3.10 51221:bash 51225:node 51226:Chromium 51235:Chromium Helper 51236:Chromium Helper 51237:Chromium Helper 51238:Chromium Helper ]"}
+{"when":1705917566,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 8 to 9 ... map[51187:python3.10 51221:bash 51225:node 51226:Chromium 51235:Chromium Helper 51236:Chromium Helper 51237:Chromium Helper 51239:Chromium Helper 51240:Chromium Helper ]"}
+{"when":1705917572,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 9 to 10 ... map[51187:python3.10 51221:bash 51225:node 51226:Chromium 51235:Chromium Helper 51236:Chromium Helper 51237:Chromium Helper 51240:Chromium Helper 51272:Chromium Helper 51273:Chromium Helper ]"}
+{"when":1705917599,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 10 to 1 ... map[51187:python3.10]"}
+{"when":1705917599,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705917599,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705917600,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705918410,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705918410,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.029s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705918410,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 54071/54072)"}
+{"when":1705918410,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.007s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705918410,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.195s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705918410,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.470s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705918410,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705918410,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705918411,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[54090:python3.10]"}
+{"when":1705918416,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 5 ... map[54090:python3.10 54121:bash 54125:node 54126:Chromium 54132:profiles]"}
+{"when":1705918417,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 5 to 9 ... map[54090:python3.10 54121:bash 54125:node 54126:Chromium 54135:Chromium Helper 54136:Chromium Helper 54137:Chromium Helper 54139:Chromium Helper 54140:Chromium Helper ]"}
+{"when":1705918419,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705918419,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705918420,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705918633,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705918633,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.029s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705918633,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 54815/54816)"}
+{"when":1705918633,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705918633,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.206s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705918634,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.460s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705918634,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705918634,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705918634,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[54831:python3.10]"}
+{"when":1705918639,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 5 ... map[54831:python3.10 54864:bash 54868:node 54870:Chromium 54875:profiles]"}
+{"when":1705918640,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 5 to 9 ... map[54831:python3.10 54864:bash 54868:node 54870:Chromium 54878:Chromium Helper 54879:Chromium Helper 54880:Chromium Helper 54882:Chromium Helper 54883:Chromium Helper ]"}
+{"when":1705918683,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 9 to 1 ... map[54831:python3.10]"}
+{"when":1705918683,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1705918683,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705918684,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705918728,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705918728,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.029s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705918728,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.004s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 55285/55286)"}
+{"when":1705918728,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705918728,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.200s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705918728,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.458s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705918728,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705918728,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705918729,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[55312:python3.10]"}
+{"when":1705918734,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 5 ... map[55312:python3.10 55338:bash 55342:node 55343:Chromium 55357:profiles]"}
+{"when":1705918734,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 5 to 9 ... map[55312:python3.10 55338:bash 55342:node 55343:Chromium 55360:Chromium Helper 55361:Chromium Helper 55362:Chromium Helper 55364:Chromium Helper 55365:Chromium Helper ]"}
+{"when":1705918744,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1705918744,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705918745,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705918873,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705918873,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.028s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705918873,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 55874/55875)"}
+{"when":1705918873,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705918873,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.197s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705918874,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.466s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705918874,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705918874,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705918874,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[55899:python3.10]"}
+{"when":1705918879,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 3 ... map[55899:python3.10 55928:bash 55932:node]"}
+{"when":1705918880,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 3 to 10 ... map[55899:python3.10 55928:bash 55932:node 55942:Chromium 55950:Chromium Helper 55951:Chromium Helper 55952:Chromium Helper 55953:Chromium Helper 55955:Chromium Helper 55956:Chromium Helper ]"}
+{"when":1705918880,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 10 to 9 ... map[55899:python3.10 55928:bash 55932:node 55942:Chromium 55950:Chromium Helper 55951:Chromium Helper 55952:Chromium Helper 55955:Chromium Helper 55956:Chromium Helper ]"}
+{"when":1705918889,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1705918889,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705918890,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705919366,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705919366,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.031s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705919366,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 57505/57514)"}
+{"when":1705919366,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705919366,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.196s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705919367,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.461s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705919367,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705919367,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705919367,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[57535:python3.10]"}
+{"when":1705919373,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 3 ... map[57535:python3.10 57567:bash 57571:node]"}
+{"when":1705919373,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 3 to 6 ... map[57535:python3.10 57567:bash 57571:node 57573:Chromium 57582:Chromium Helper 57583:Chromium Helper]"}
+{"when":1705919374,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 6 to 9 ... map[57535:python3.10 57567:bash 57571:node 57573:Chromium 57582:Chromium Helper 57583:Chromium Helper 57584:Chromium Helper 57586:Chromium Helper 57587:Chromium Helper ]"}
+{"when":1705919383,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 9 to 1 ... map[57535:python3.10]"}
+{"when":1705919383,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was FAILURE, reason: exit status 1","comment":"rcc point of view"}
+{"when":1705919383,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705919384,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705919420,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705919420,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.032s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705919420,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 57780/57781)"}
+{"when":1705919420,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.005s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705919420,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.204s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705919421,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.478s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705919421,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705919421,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705919422,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[57805:python3.10]"}
+{"when":1705919426,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 4 ... map[57805:python3.10 57835:bash 57839:node 57841:Chromium]"}
+{"when":1705919427,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 4 to 9 ... map[57805:python3.10 57835:bash 57839:node 57841:Chromium 57849:Chromium Helper 57850:Chromium Helper 57851:Chromium Helper 57854:Chromium Helper 57855:Chromium Helper ]"}
+{"when":1705919436,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 9 to 6 ... map[57805:python3.10 57835:bash 57839:node 57841:Chromium 57849:Chromium Helper 57851:Chromium Helper]"}
+{"when":1705919436,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1705919436,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705919437,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
+{"when":1705919527,"controller":"rcc.robocorpcode","event":"start task","detail":"name=Run Task from=/Users/ovidiu/Github/cert2-robot/robot.yaml","comment":"at task environment setup"}
+{"when":1705919527,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 00/15 v17.12.0 0.029s Context: \"Ovidiu Rusu\" \u003covidiu@192-168-0-18.rdsnet.ro\u003e [darwin_amd64/ProductName: macOS; ProductVersion: 14.2.1; BuildVersion: 23C71]."}
+{"when":1705919527,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 01/15 v17.12.0 0.005s Fresh [shared mode] holotree environment fbc4496c-e118-d6ab-53bd-a6d5838e65ab. (parent/pid: 58284/58285)"}
+{"when":1705919527,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 02/15 v17.12.0 0.006s Holotree blueprint is \"0c950ae63c992a0e\" [darwin_amd64 with 10 workers on 11 CPUs from \"conda.yaml\"]."}
+{"when":1705919527,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 14/15 v17.12.0 0.199s Restore space from library [with 10 workers on 11 CPUs]."}
+{"when":1705919528,"controller":"rcc.robocorpcode","event":"environment","detail":"build","comment":"Progress: 15/15 v17.12.0 0.458s Fresh holotree done [with 10 workers on 11 CPUs]."}
+{"when":1705919528,"controller":"rcc.robocorpcode","event":"start","detail":"robot","comment":"started"}
+{"when":1705919528,"controller":"rcc.robocorpcode","event":"run","detail":"robot","comment":"task run"}
+{"when":1705919529,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 0 to 1 ... map[58299:python3.10]"}
+{"when":1705919533,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 1 to 5 ... map[58299:python3.10 58328:bash 58332:node 58333:Chromium 58339:profiles]"}
+{"when":1705919534,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 5 to 9 ... map[58299:python3.10 58328:bash 58332:node 58333:Chromium 58342:Chromium Helper 58343:Chromium Helper 58344:Chromium Helper 58346:Chromium Helper 58347:Chromium Helper ]"}
+{"when":1705919543,"controller":"rcc.robocorpcode","event":"processes","detail":"updated","comment":"count from 9 to 1 ... map[58299:python3.10]"}
+{"when":1705919544,"controller":"rcc.robocorpcode","event":"robot exit","detail":"From rcc \"v17.12.0\" point of view, \"actual main robot run\" was SUCCESS.","comment":"rcc point of view"}
+{"when":1705919544,"controller":"rcc.robocorpcode","event":"processes","detail":"final","comment":"count: 0"}
+{"when":1705919545,"controller":"rcc.robocorpcode","event":"stop","detail":"robot","comment":"done"}
